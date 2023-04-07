@@ -1,4 +1,4 @@
-package Projet1Perso.Projet1NwayMarieDavid;
+package Projet1Perso.Projet1NwayMarieDavid.program;
 
 public class SystemInfo {
 
