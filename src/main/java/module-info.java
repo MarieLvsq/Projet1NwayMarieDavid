@@ -1,4 +1,4 @@
-module Projet1Perso.Projet1NwayMarieDavid {
+module isika.cda24.Projet1.Projet1NwayDavidMarie{
     requires javafx.controls;
-    exports Projet1Perso.Projet1NwayMarieDavid.program;
+    exports program;
 }
